@@ -12,7 +12,7 @@ The project covers the complete machine learning workflow:
 
 - Data loading
 - Exploratory Data Analysis (EDA)
-- Data preprocessing
+- Data preparation
 - Train-test split
 - Model training
 - Model evaluation
